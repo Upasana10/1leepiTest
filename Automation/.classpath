@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/gecko/chromedriver_win32.zip"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/libs/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/libs/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/libs/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/jar_files.zip"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/cssparser-0.9.22.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/htmlunit-2.26.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/htmlunit-core-js-2.26.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/htmlunit-driver-2.26.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/neko-htmlunit-2.25.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/websocket-api-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/websocket-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/websocket-common-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/selenium total programs/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/xml-apis-1.4.01 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/xercesImpl-2.11.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/xalan-2.7.2 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/websocket-common-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/websocket-common-9.4.3.v20170317 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/websocket-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/websocket-client-9.4.3.v20170317 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/websocket-api-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/websocket-api-9.4.3.v20170317 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/velocity-dep-1.4.jar.zip"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/velocity-dep-1.4 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/testng-6.11.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/testng-6.11 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/serializer-2.7.2 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-support-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-support-3.4.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-safari-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-safari-driver-3.4.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-remote-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-remote-driver-3.4.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-opera-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-opera-driver-3.4.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-java-3.6.0.zip"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-java-3.6.0 - Copy.zip"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-java-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-java-3.4.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-ie-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-ie-driver-3.4.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-firefox-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-firefox-driver-3.4.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-edge-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-edge-driver-3.4.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-chrome-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-chrome-driver-3.4.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-chrome-driver-2.21.0.jar.zip"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-chrome-driver-2.21.0.jar - Copy.zip"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-chrome-driver-2.21.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-chrome-driver-2.21.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-api-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/selenium-api-3.4.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/sac-1.3 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/reportng-1.1.3.jar.zip"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/reportng-1.1.3.jar - Copy.zip"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/reportng-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/poi-bin-3.17-20170915.zip"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/poi-3.9.jar.zip"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/poi-3.9.jar - Copy.zip"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/poi-3.9 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/phantomjsdriver-1.4.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/neko-htmlunit-2.25.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/neko-htmlunit-2.25 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/junit-4.12 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/jna-platform-4.1.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/jna-4.1.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/jetty-util-9.4.1.v20170120 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/jetty-io-9.4.1.v20170120 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/jetty-http-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/jetty-http-9.4.3.v20170317 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/jetty-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/jetty-client-9.4.3.v20170317 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/javax.servlet-api-3.1.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/httpmime-4.5.3 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/httpcore-4.4.6 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/httpclient-4.5.3 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/htmlunit-driver-2.26.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/htmlunit-driver-2.26 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/htmlunit-core-js-2.26.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/htmlunit-core-js-2.26 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/htmlunit-2.26.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/htmlunit-2.26 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/hamcrest-core-1.3 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/guice-3.0.jar.zip"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/guice-3.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/guava-21.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/gson-2.8.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/cssparser-0.9.22.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/cssparser-0.9.22 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/commons-logging-1.2 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/commons-lang3-3.5 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/commons-io-2.5 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/commons-exec-1.3 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/commons-codec-1.10 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/client-combined-3.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/client-combined-3.6.0-sources - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/client-combined-3.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/client-combined-3.6.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/cglib-nodep-3.2.4 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JAR/apache-maven-3.5.2-bin.zip"/>
+	<classpathentry kind="lib" path="E:/SELE_NIUM/JARS/Jar/selenium-chrome-driver-2.21.0.jar.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

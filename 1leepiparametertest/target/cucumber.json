@@ -1,0 +1,176 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 11,
+        "name": "Successful Login with Valid Credentials",
+        "description": "",
+        "id": "login-action;successful-login-with-valid-credentials;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7950554035,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on Home Page",
+            "match": {
+              "location": "parametertest.user_is_on_Home_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4673583,
+              "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat com.stepdef.parametertest.user_Navigate_to_LogIn_Page(parametertest.java:33)\r\n\tat ✽.When User Navigate to LogIn Page(parameter.feature:5)\r\n",
+              "status": "pending"
+            },
+            "line": 5,
+            "name": "User Navigate to LogIn Page",
+            "match": {
+              "location": "parametertest.user_Navigate_to_LogIn_Page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "User enters \"upasanasatapathy10@gmail.com\" and \"iwantjob\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "upasanasatapathy10@gmail.com",
+                  "offset": 13
+                },
+                {
+                  "val": "iwantjob",
+                  "offset": 48
+                }
+              ],
+              "location": "parametertest.user_enters_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "click on login",
+            "match": {
+              "location": "parametertest.click_on_login()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "Message displayed Login Successfully",
+            "match": {
+              "location": "parametertest.message_displayed_Login_Successfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "Successful Login with Valid Credentials",
+        "description": "",
+        "id": "login-action;successful-login-with-valid-credentials;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 11150759105,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on Home Page",
+            "match": {
+              "location": "parametertest.user_is_on_Home_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 647127,
+              "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat com.stepdef.parametertest.user_Navigate_to_LogIn_Page(parametertest.java:33)\r\n\tat ✽.When User Navigate to LogIn Page(parameter.feature:5)\r\n",
+              "status": "pending"
+            },
+            "line": 5,
+            "name": "User Navigate to LogIn Page",
+            "match": {
+              "location": "parametertest.user_Navigate_to_LogIn_Page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "User enters \"lipihyd25@gmail.com\" and \"iwantjob\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "lipihyd25@gmail.com",
+                  "offset": 13
+                },
+                {
+                  "val": "iwantjob",
+                  "offset": 39
+                }
+              ],
+              "location": "parametertest.user_enters_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "click on login",
+            "match": {
+              "location": "parametertest.click_on_login()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "Message displayed Login Successfully",
+            "match": {
+              "location": "parametertest.message_displayed_Login_Successfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login Action",
+    "description": "",
+    "id": "login-action",
+    "keyword": "Feature",
+    "uri": "parameter.feature"
+  }
+]

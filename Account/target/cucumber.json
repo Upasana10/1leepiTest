@@ -1,0 +1,226 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "Account Data",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 197214431,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user is on home page",
+            "match": {
+              "location": "CreateAccount.user_is_on_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 113414,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user click into signin button",
+            "match": {
+              "location": "CreateAccount.user_click_into_signin_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 332030,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Signin page displayed",
+            "match": {
+              "location": "CreateAccount.signin_page_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 838545,
+              "status": "passed"
+            },
+            "match": {
+              "location": "CreateAccount.beforeScenario()"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "Create Account",
+        "description": "",
+        "id": "create-account-feature;create-account",
+        "after": [
+          {
+            "result": {
+              "duration": 278146,
+              "status": "passed"
+            },
+            "match": {
+              "location": "CreateAccount.afterrScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 358716,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Add all details",
+            "match": {
+              "location": "CreateAccount.add_all_details()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 179615,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Click save",
+            "match": {
+              "location": "CreateAccount.Click_save()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 2,
+        "name": "Account Data",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 294568,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user is on home page",
+            "match": {
+              "location": "CreateAccount.user_is_on_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 335110,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user click into signin button",
+            "match": {
+              "location": "CreateAccount.user_click_into_signin_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 375139,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Signin page displayed",
+            "match": {
+              "location": "CreateAccount.signin_page_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 487013,
+              "status": "passed"
+            },
+            "match": {
+              "location": "CreateAccount.beforeScenario()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "After Creation",
+        "description": "",
+        "id": "create-account-feature;after-creation",
+        "after": [
+          {
+            "result": {
+              "duration": 298161,
+              "status": "passed"
+            },
+            "match": {
+              "location": "CreateAccount.afterrScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 440312,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Get a code",
+            "match": {
+              "location": "CreateAccount.get_a_code()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 342808,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Verified account details",
+            "match": {
+              "location": "CreateAccount.verified_account_details()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 711274,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "account created",
+            "match": {
+              "location": "CreateAccount.account_created()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Create Account Feature",
+    "description": "",
+    "id": "create-account-feature",
+    "keyword": "Feature",
+    "uri": "featureFile.feature"
+  }
+]

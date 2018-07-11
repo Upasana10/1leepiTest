@@ -1,0 +1,219 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "User is Logged In",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 719183706,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "once logged in",
+            "match": {
+              "location": "BackgroundSteps.once_logged_in()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 282765,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "go to",
+            "match": {
+              "location": "BackgroundSteps.go_to()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 227854,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BackgroundSteps.beforeScenario()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "Search a product and add the first product to the User basket",
+        "description": "",
+        "id": "test-background-feature;search-a-product-and-add-the-first-product-to-the-user-basket",
+        "after": [
+          {
+            "result": {
+              "duration": 882166,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BackgroundSteps.afterrScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 290975,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I navigate to the login page",
+            "match": {
+              "location": "BackgroundSteps.i_navigate_to_the_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 130862,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I submit username and password",
+            "match": {
+              "location": "BackgroundSteps.i_submit_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 299188,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I should be logged in",
+            "match": {
+              "location": "BackgroundSteps.i_should_be_logged_in()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Test Background Feature",
+    "description": "Description: The purpose of this feature is to test the Background keyword",
+    "id": "test-background-feature",
+    "keyword": "Feature",
+    "uri": "back.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 5,
+        "name": "i m second background",
+        "description": "",
+        "type": "background",
+        "keyword": "Background"
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 666115,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BackgroundSteps.beforeScenario()"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "Title of your scenario",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario",
+        "after": [
+          {
+            "result": {
+              "duration": 95966,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BackgroundSteps.afterrScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3292086,
+              "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat com.stepdef.GroundSteps.I_want_to_write_a_step_with_precondition(GroundSteps.java:13)\r\n\tat ✽.Given I want to write a step with precondition(ground.feature:8)\r\n",
+              "status": "pending"
+            },
+            "line": 8,
+            "name": "I want to write a step with precondition",
+            "match": {
+              "location": "GroundSteps.I_want_to_write_a_step_with_precondition()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I complete action",
+            "match": {
+              "location": "GroundSteps.When_I_complete_action()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "some other action",
+            "match": {
+              "location": "GroundSteps.some_other_action()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "I validate the outcomes",
+            "match": {
+              "location": "GroundSteps.I_validate_the_outcomes()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "check more outcomes",
+            "match": {
+              "location": "GroundSteps.check_more_outcomes()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Title of your feature",
+    "description": "I want to use this template for my feature file\r\nDescription: The purpose of this feature is to test the Background keyword",
+    "id": "title-of-your-feature",
+    "keyword": "Feature",
+    "uri": "ground.feature"
+  }
+]

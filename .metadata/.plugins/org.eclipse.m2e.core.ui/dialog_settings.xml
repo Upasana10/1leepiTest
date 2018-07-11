@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="picocontainer"/>
+			<item value="1lipiparametertest"/>
+			<item value="1lipiparameterTest"/>
+			<item value="1lipi"/>
+			<item value="LipiIst"/>
+			<item value="Z"/>
+			<item value="Container"/>
+			<item value="Pico"/>
+			<item value="CucumberBasics"/>
+			<item value="Amazon"/>
+			<item value="Automationpractice"/>
+			<item value="Amazon1"/>
+			<item value="Gmail"/>
+			<item value="Account"/>
+			<item value="Background"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="picocontainer"/>
+			<item value="1leepiparametertest"/>
+			<item value="LeepiParametertest"/>
+			<item value="1leepi"/>
+			<item value="LipiIst"/>
+			<item value="Z"/>
+			<item value="Container"/>
+			<item value="Pico"/>
+			<item value="CucumberBasics"/>
+			<item value="Amazon"/>
+			<item value="Automationpractice"/>
+			<item value="Amazon1"/>
+			<item value="Gmail"/>
+			<item value="Account"/>
+			<item value="Background"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="E:\SELE_NIUM\Mavendemo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="E:\Test\Hook"/>
+			<item value="E:\Test\1leepi"/>
+			<item value="E:\Test\ParameterUsingExample\src\test\java\com\stepdef\parameterTest.java"/>
+			<item value="E:\Test\Pico"/>
+			<item value="E:\Test\Amazon"/>
+			<item value="E:\Test\Account\src\test\java\com\stepDef\EditAccount.java"/>
+			<item value="E:\Test\Amazon\src\test\resources\feature\Signin.feature"/>
+			<item value="E:\Test\TestProject"/>
+			<item value="E:\Test\Account"/>
+			<item value="E:\Test\ParameterUsingExample"/>
+			<item value="E:\Test\Cucumber"/>
+			<item value="E:\Test\TestProject\src\test\resources\features\first.feature"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

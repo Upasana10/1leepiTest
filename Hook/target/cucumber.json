@@ -1,0 +1,153 @@
+[
+  {
+    "line": 1,
+    "name": "Test Hooks",
+    "description": "Description: The Background keyword1",
+    "id": "test-hooks",
+    "keyword": "Feature",
+    "uri": "file.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 5,
+        "name": "i m second background",
+        "description": "",
+        "type": "background",
+        "keyword": "Background"
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 401311,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks_Steps.beforeScenarioStart()"
+            }
+          },
+          {
+            "result": {
+              "duration": 129323,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks_Steps.beforeeScenario()"
+            }
+          },
+          {
+            "result": {
+              "duration": 129322,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks_Steps.beforeScenario()"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "Title of your scenario",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario",
+        "after": [
+          {
+            "result": {
+              "duration": 302266,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks_Steps.afterrScenario()"
+            }
+          },
+          {
+            "result": {
+              "duration": 266856,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks_Steps.afterScenario()"
+            }
+          },
+          {
+            "result": {
+              "duration": 93913,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks_Steps.afterScenarioFinish()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 196887533,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I want to write a step with precondition",
+            "match": {
+              "location": "GroundSteps.I_want_to_write_a_step_with_precondition()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6364007,
+              "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat com.stepDef.GroundSteps.When_I_complete_action(GroundSteps.java:19)\r\n\tat ✽.When I complete action(ground.feature:9)\r\n",
+              "status": "pending"
+            },
+            "line": 9,
+            "name": "I complete action",
+            "match": {
+              "location": "GroundSteps.When_I_complete_action()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "some other action",
+            "match": {
+              "location": "GroundSteps.some_other_action()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "I validate the outcomes",
+            "match": {
+              "location": "GroundSteps.I_validate_the_outcomes()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "check more outcomes",
+            "match": {
+              "location": "GroundSteps.check_more_outcomes()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Title of your feature",
+    "description": "I want to use this template for my feature file\r\nDescription: The Background keyword2",
+    "id": "title-of-your-feature",
+    "keyword": "Feature",
+    "uri": "ground.feature"
+  }
+]
